@@ -1,5 +1,5 @@
 homepage: "https://github.com/stefanoghisoni-adv/web-sha-hashing"
 documentation: "https://github.com/stefanoghisoni-adv/web-sha-hashing/blob/main/README.md"
 versions:
-  - sha: 9f6724f15330cda900a0cac19bc20713ae1981d8
+  - sha: 5e2c32e90f6312d120ac938f2770f14973554867
     changeNotes: "Initial release: Synchronous client-side hashing supporting SHA-256, SHA-512, and SHA-128 (MD5)."
