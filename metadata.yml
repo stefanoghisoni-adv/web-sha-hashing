@@ -1,0 +1,5 @@
+homepage: "https://github.com/stefanoghisoni-adv/web-gtm-hashing"
+documentation: "https://github.com/stefanoghisoni-adv/web-gtm-hashing/blob/main/README.md"
+versions:
+  - sha: INSERISCI_QUI_IL_COMMIT_SHA
+    changeNotes: "Initial release: Synchronous client-side hashing supporting SHA-256, SHA-512, and SHA-128 (MD5)."
