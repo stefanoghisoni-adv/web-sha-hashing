@@ -13,7 +13,8 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Hashing",
+  "displayName": "Web SHA Hashing",
+  "categories": ["UTILITY"],
   "description": "Synchronously hash any input value in GTM web containers using SHA-256, SHA-512, or SHA-128. Ideal for PII hashing and privacy compliance across marketing tags.",
   "containerContexts": [
     "WEB"
